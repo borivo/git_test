@@ -1,0 +1,127 @@
+body  {
+       paddding: 0;
+       margin: 0;
+}
+
+.nav  {
+       
+       top: 0;
+       float: right;
+       margin-left: 1100px;
+}
+
+.nav ul li  {
+          display: inline;
+          padding: 10px;
+          float: right;
+          text-decoration: none;
+          color: lightgrey;
+          padding-top: 50px;
+}
+
+ div ul li a  {
+               text-decoration: none;
+               color: #736464;
+               margin-top: 15px;
+               font-size: 14px;
+}
+div.nav  {
+          padding-left: 65px; 
+
+ .head_nav ul    {
+            display: inline;
+            border-bottom: 1px solid lightgray;
+}
+
+}
+button  {
+         color: #000;
+    cursor: pointer;
+    text-decoration: none;
+    opacity: .55;
+    display: inline-block;
+    height: 20px;
+    width: 30px;
+}
+button:hover  {
+               color: #4a4141;
+}
+p  {
+    margin-top: 150px;
+    text-align: center;
+    font-size: 100px;
+    margin-bottom: 20px;
+    clear: both;
+    padding-top: 200px;
+}
+.form  {
+        text-align: center;
+        margin-left: 30px;
+}
+input  {
+        margin-top: -170px;
+        width: 700px;
+        height: 30px;
+        font-size: 15px;
+        color: #c7bdbd;
+        padding-left: 10px;
+}
+a  {
+    text-decoration: none;
+}
+.main  {
+        cursor: default;
+}
+.nav ul li a:hover  {
+          text-decoration: underline;
+}
+img  {
+      height: 20px;
+      width: 20px;
+      cursor: pointer;
+}
+img:hover  {
+            background-color: lightgray;
+}
+#microphone  {
+              position: relative;
+              right: 35px;
+              top: 5px;
+              height: 20px;
+              width: 20px;
+}
+
+table  {
+         margin: auto;
+         padding-left: 6px;
+         padding-top: 50px;
+}
+td  {
+     padding: 8px;
+}
+.image  {
+         height: 140px;
+         width: 161.2px;
+}
+
+ul.head_nav  {
+              margin-bottom: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
